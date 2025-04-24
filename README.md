@@ -16,7 +16,7 @@ A collection of hands-on machine learning projects built using real-world datase
 - Predicts car prices based on categorical and numeric features
 - Includes one-hot encoding, VIF analysis, and linear regression
 - **Tech Used**: Pandas, Scikit-learn, Seaborn
-- **Metrics**: RMSE = ..., R² = ...
+- **Metrics**: RMSE = 2870.53, R² = 0.89
 
 
 ## 🔧 Skills & Tools
